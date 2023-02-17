@@ -4,7 +4,6 @@
 
 اکنون از Windows / Linux / macOS amd64 پشتیبانی می کند.
 
-دانلود نکوری گیت هاب
 
 ## دانلود/ Download
 
