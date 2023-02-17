@@ -4,7 +4,9 @@
 
 اکنون از Windows / Linux / macOS amd64 پشتیبانی می کند.
 
-## دانلود / Download
+دانلود نکوری گیت هاب
+
+## دانلود/ Download
 
 ### GitHub Releases (Portable ZIP)
 
